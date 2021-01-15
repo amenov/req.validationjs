@@ -1,0 +1,22 @@
+{
+  "name": "amenov.req.validation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amenov/req.validationjs.git"
+  },
+  "author": "Amenov Abdulsalam <amenov.abdulsalam@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amenov/req.validationjs/issues"
+  },
+  "homepage": "https://github.com/amenov/req.validationjs#readme",
+  "dependencies": {
+    "amenov.validator": "^1.0.0"
+  }
+}
