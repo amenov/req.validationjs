@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/amenov/req.validationjs#readme",
   "dependencies": {
-    "amenov.validator": "^2.1.2"
+    "amenov.validator": "^2.1.3"
   }
 }
