@@ -9,7 +9,7 @@ module.exports = (options) => (req, res, next) => {
     if (validation.failed) {
       return validation.errors
     } else {
-      return false
+      return null
     }
   }
 
